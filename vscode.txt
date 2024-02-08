@@ -1,0 +1,27 @@
+<div class="hero min-h-screen bg-base-200">
+    <div class="hero-content text-center bg:url()">
+      <div class="max-w-md">
+          
+            <div class="flex space-x-4 p-5">
+                <div><form method = "post" enctype="multipart/form-data"></div>
+                      <div><input type="file" name = "file" class="file-input file-input-bordered file-input-info w-full max-w-xs rounded-3xl" /></div>
+                      <div><button class="btn btn-active btn-neutral hover:bg-gray-200 font-bold flex mx-auto"><input type = "submit"></button></div>
+                </div></form>
+            </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+<h1 class="text-5xl font-bold text-pink-400 hover:text-cyan-400">ML Portal</h1>
+<div class="flex space-x-4 p-5">
+<div><form method = "post" enctype="multipart/form-data"></div>
+<div><input type="file" name = "file" class="file-input file-input-bordered file-input-info w-full max-w-xs rounded-3xl" /></div>
+<div><button class="btn btn-active btn-neutral hover:bg-gray-200 font-bold flex mx-auto"><input type = "submit"></button></div>
+</div></form>
+
+https://www.promise.com/FileCruiser/MediaBank/Web%20Public%20Media/V4/Support/hero-support-mobile.png
+https://www.linkedin.com/in/dinidu-sachintha-068bb1273/
+
